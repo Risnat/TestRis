@@ -7,7 +7,7 @@ class AccueilCovoit extends CI_Controller
     public function __construct()
 
     {
-
+                // ici comment
         parent::__construct();
 		$this->session->set_userdata('pas', '0.02');
     $this->session->liste_trajets_trouves=array();
