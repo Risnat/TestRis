@@ -1,0 +1,44 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-color: lightblue;
+    background-position: 0% 25%;
+    background-size: contain;
+    color: blue;
+}
+.error{
+    color: red
+}
+label{ 
+    font-weight: bold
+}
+
+
+body{ 
+    color:blue;
+}
+
+#containerCovoit{
+    position: relative;
+    text-align: center;
+    color: blue;
+}
+#containerAuthentification,#containerInscription{
+     background-color: lightblue;
+    color: blue;
+}
+.top-right {
+	 position: absolute;
+    top: 50%;
+    left: 72%;
+    transform: translate(-50%, -28%);
+}
+#inputemail{
+   height:200px;
+    width:700px;
+}
+#modal01{
+  background-color: lightblue;
+    background-position: 0% 25%;
+    background-size: contain;
+    color: blue;
+}

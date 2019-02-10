@@ -1,0 +1,28 @@
+{
+   "candidates" : [
+      {
+         "formatted_address" : "6 Allée des Cyprès, 22300 Lannion, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.7416419,
+               "lng" : -3.540673
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.74300932989272,
+                  "lng" : -3.539320170107278
+               },
+               "southwest" : {
+                  "lat" : 48.74030967010728,
+                  "lng" : -3.542019829892722
+               }
+            }
+         },
+         "place_id" : "ChIJ6V1VvKvUE0gRRNdajFVXM-w"
+      }
+   ],
+   "debug_log" : {
+      "line" : []
+   },
+   "status" : "OK"
+}
